@@ -19,6 +19,7 @@ function generateLecture() {
     - Occasional spelling errors
     - Short paragraphs
     - Organized, concise ideas
+    - No extra line left
     `;
   const prompt = `${aiInstruction} ${userInput}`;
 
